@@ -1,0 +1,22 @@
+# 에피소드 원본 (유료 콘텐츠 — 레포에 포함하지 않음)
+ssulhwa/episodes/
+ssulhwa/episodes/.staging/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+*~
+
+# 임시 / 실수 파일
+ssulhwa/nul
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OMC 상태 (세션별)
+.omc/
